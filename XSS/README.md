@@ -1,5 +1,6 @@
 # Steps
 #### Step 1 - Gain trust from the admin
+######	If you have the ability to post skip to step 3
 ######	Create a comment on a post.
 
 #### Step 2 - Wait
