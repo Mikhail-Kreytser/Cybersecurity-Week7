@@ -30,7 +30,7 @@
 
 
 # Demo
-![alt text](https://github.com/Mikhail-Kreytser/Cybersecurity-Week7/blob/master/XSS/Demo.gif "XSS Demo")
+![alt text](https://github.com/Mikhail-Kreytser/Cybersecurity-Week7/blob/master/XSS%201/Demo.gif "XSS Demo")
 
 # References
 #### https://klikki.fi/adv/wordpress2.html
