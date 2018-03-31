@@ -1,12 +1,7 @@
 # Steps
-#### Step 1 - Gain trust from the admin
-######	If you have the ability to post skip to step 3
-######	Create a comment on a post.
+#### Step 1 - Log in as admin or editor
 
-#### Step 2 - Wait
-###### Wait for approval from the admin.
-
-#### Step 3 - Inject XSS
+#### Step 2 - Inject XSS
 ######	Comment the payload.
 	http://wpdistillery.vm/<svg onload=alert(1)>
 
