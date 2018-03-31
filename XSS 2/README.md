@@ -30,7 +30,7 @@
 
 
 # Demo
-![alt text](https://github.com/Mikhail-Kreytser/Cybersecurity-Week7/blob/master/XSS/Demo.gif "XSS Demo")
+![alt text](https://github.com/Mikhail-Kreytser/Cybersecurity-Week7/blob/master/XSS%202/Demo.gif "XSS Demo")
 
 # References
 #### https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5734
